@@ -1,18 +1,18 @@
 <svg viewBox="0 0 600 170" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="gr-simple" x1="0" y1="0" x2="100%" y2="100%">
+    <linearGradient id="gr-simple" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop stop-color="#205374" offset="0%"></stop>
       <stop stop-color="#00AFBC" offset="100%"></stop>
     </linearGradient>
   </defs>
 
-  <text
-    text-anchor="middle"
-    x="50%"
-    y="50%"
-    dy=".35em"
-    font-family="Montserrat, sans-serif"
-    font-weight="600"
+  <text 
+    text-anchor="middle" 
+    x="50%" 
+    y="50%" 
+    dy=".35em" 
+    font-family="Montserrat, sans-serif" 
+    font-weight="600" 
     letter-spacing="-2"
     style="fill: url(#gr-simple); font-size: 160px; line-height: 1;">
     NGI
