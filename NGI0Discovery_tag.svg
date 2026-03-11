@@ -54,16 +54,12 @@
        id="clipPath38-3"><path
          d="M 0,127.984 H 415.474 V 0 H 0 Z"
          id="path36-5"
-         inkscape:connector-curvature="0" /></clipPath><linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1"
-       id="linearGradient2"
-       x1="32.115784"
-       y1="63.991882"
-       x2="183.37421"
-       y2="63.991882"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="repeat" /></defs><sodipodi:namedview
+         inkscape:connector-curvature="0" /></clipPath>
+    <linearGradient x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-139.45511,-135.52185,-135.52185,139.45511,177.4727,131.75308)" spreadMethod="pad" id="linearGradient2">
+      <stop style="stop-opacity:1;stop-color:#00afbc" offset="0" id="stop47"/>
+      <stop style="stop-opacity:1;stop-color:#205374" offset="1" id="stop49"/>
+    </linearGradient>
+</defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
